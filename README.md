@@ -1,5 +1,5 @@
 # mikeflappybird
+Flutter project - Training Mobile Dev: GDSC_HUST
 
-A new Flutter project - Training Mobile Dev: GDSC_HUST
+https://user-images.githubusercontent.com/118018013/205493935-269a3e07-e9a8-41e5-b66d-7fb4243b1abd.mp4
 
-![demoimg](https://user-images.githubusercontent.com/118018013/205492226-ca3f5605-0373-4c04-aea0-b63984629533.jpg)
